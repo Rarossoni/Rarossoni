@@ -2,15 +2,9 @@
   <img src="https://media.tenor.com/FwF_nOJUqzcAAAAi/cat-peach-and-goma.gif" width="150" alt="Gatinho fofo" />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=800&size=30&pause=800&color=FF6B81&center=true&vCenter=true&width=500&lines=Olá,+seja+bem-vindo(a)!+🍓;Hello,+welcome!+✨;Hola,+bienvenido!+🌸;Bonjour,+bienvenue!+🥐;Konnichiwa,+yokoso!+🐾;Ciao,+benvenuto!+🍕" alt="Saudações em várias línguas" />
-  </a>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=22&pause=1000&color=FF6B81&center=true&vCenter=true&width=435&lines=?????;kkkkkkkk;i+guess" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=800&size=30&pause=800&color=FF6B81&center=true&vCenter=true&width=500&lines=Olá,+seja+bem-vindo(a)!+🍓;Hello,+welcome!+;Hola,+bienvenido!+;Bonjour,+bienvenue!+;Konnichiwa,+yokoso!+;Ciao,+benvenuto!+" alt="Saudações em várias línguas" />
   </a>
 </div>
-
----
 
 ### 🌸 Sobre mim
 

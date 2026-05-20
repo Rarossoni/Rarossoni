@@ -1,10 +1,8 @@
   <img src="https://media.tenor.com/FwF_nOJUqzcAAAAi/cat-peach-and-goma.gif" width="150" alt="Gatinho fofo" />
   
-  # 🍓 
-  
   <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=800&size=30&pause=1500&color=FF6B81&center=true&vCenter=true&width=500&lines=Olá,+seja+bem-vindo(a)!+🍓;Hello,+welcome!+✨;Hola,+bienvenido!+🌸;Bonjour,+bienvenue!+🥐;Konnichiwa,+yokoso!+🐾;Ciao,+benvenuto!+🍕" alt="Saudações em várias línguas" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=800&size=30&pause=800&color=FF6B81&center=true&vCenter=true&width=500&lines=Olá,+seja+bem-vindo(a)!+🍓;Hello,+welcome!+✨;Hola,+bienvenido!+🌸;Bonjour,+bienvenue!+🥐;Konnichiwa,+yokoso!+🐾;Ciao,+benvenuto!+🍕" alt="Saudações em várias línguas" />
   </a>
 </div>
   
@@ -23,7 +21,7 @@ Gosto de morango e arte
   <summary>✨ <b>Clique aqui para um segredo...</b> ✨</summary>
   <br>
   <p> não sei oq to fazendo
-  <div class="tenor-gif-embed" data-postid="6508383405014947627" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-tongue-cat-cats-ahh-excited-gif-6508383405014947627">Cat Tongue Cats Sticker</a>from <a href="https://tenor.com/search/cat+tongue-stickers">Cat Tongue Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> </p>
+  <div class="tenor-gif-embed" data-postid="6508383405014947627" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-tongue-cat-cats-ahh-excited-gif-6508383405014947627" </p>
 </details>
 
 <div align="center">

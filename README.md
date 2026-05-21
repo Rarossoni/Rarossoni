@@ -8,27 +8,24 @@
 
 ### 🌸 Sobre mim
 
-Eu não sei codar, só sei que gosto de deixar as coisinhas bonitinhas e bestas
+Gosto de morango e arte
 
 <details>
   <summary>✨ <b>Clica aqui para um segredo...</b> ✨</summary>
   <br>
-  <p>Você foi moggado</p>
+  <p>não sei o q to fazendo 😂</p>
   <img src="https://media.giphy.com/media/vPzbDN4rBxuvtpSpzF/giphy.gif" width="150" alt="Gatinho" />
 </details>
 
 <br>
 
-<div>
+<p align="center">
   <img align="left" src="https://media.giphy.com/media/CzvgfBfGUiWphoPUx1/giphy.gif" height="120" alt="Gatinho no PC" />
   <img align="right" src="https://media.giphy.com/media/fXQZuffGrjohfv6G1A/giphy.gif" height="120" alt="Snoopy e Woodstock" />
-  
-  <div align="center">
-    <br>
-    <p><b>💭 Pensamentos aleatórios:</b></p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=16&pause=2500&color=FF6B81&center=true&vCenter=true&width=500&lines=so+os+loucos+ficam+acordados+de+madrugada+em+busca+de+morangos;a+vida+não+é+um+morango...;eu+tenho+hiperfoco+em+morango+sabia?;se+a+vida+te+der+morangos,+faça+uma+torta" alt="Pensamentos" />
-  </div>
-</div>
+  <br>
+  <b>💭 Pensamentos aleatórios:</b><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=16&pause=2500&color=FF6B81&center=true&vCenter=true&width=580&lines=so+os+loucos+ficam+acordados+de+madrugada+em+busca+de+morangos;a+vida+não+é+um+morango...;eu+tenho+hiperfoco+em+morango+sabia?;se+a+vida+te+der+morangos,+faça+uma+torta" alt="Pensamentos" />
+</p>
 
 <br clear="all">
 <br>

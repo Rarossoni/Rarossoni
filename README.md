@@ -1,21 +1,37 @@
 <div align="center">
-  <img src="https://media.tenor.com/FwF_nOJUqzcAAAAi/cat-peach-and-goma.gif" width="150" alt="Gatinho fofo" />
-  
+  <img src="https://media.giphy.com/media/k5dX3BHkIQAqWRnT1H/giphy.gif" width="70" alt="Morango girando" />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=800&size=30&pause=800&color=FF6B81&center=true&vCenter=true&width=500&lines=Olá,+seja+bem-vindo(a)!+🍓;Hello,+welcome!+;Hola,+bienvenido!+;Bonjour,+bienvenue!+;Konnichiwa,+yokoso!+;Ciao,+benvenuto!+" alt="Saudações em várias línguas" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=800&size=35&pause=600&color=FF6B81&center=true&vCenter=true&width=600&lines=Olá,+seja+bem-vindo(a)!+🍓;Hello,+welcome!+✨;Hola,+bienvenido!+🌸;Bonjour,+bienvenue!+🥐;Konnichiwa,+yokoso!+🐾;Ciao,+benvenuto!+🍕" alt="Saudações em várias línguas" />
   </a>
+  <img src="https://media.giphy.com/media/k5dX3BHkIQAqWRnT1H/giphy.gif" width="70" alt="Morango girando" />
 </div>
 
 ### 🌸 Sobre mim
 
-Gosto de morango e arte
+Eu não sei codar, só sei que gosto de deixar as coisinhas bonitinhas e bestas
 
 <details>
-  <summary>✨ <b>Clique aqui para um segredo...</b> ✨</summary>
+  <summary>✨ <b>Clica aqui para um segredo...</b> ✨</summary>
   <br>
-  <p>não sei oq to fazendo 😂</p>
-  <img src="https://media.tenor.com/Q24B2pE_3W4AAAAi/cat-cute.gif" width="150" alt="Gatinho" />
+  <p>Você foi moggado</p>
+  <img src="https://media.giphy.com/media/vPzbDN4rBxuvtpSpzF/giphy.gif" width="150" alt="Gatinho" />
 </details>
+
+<br>
+
+<div>
+  <img align="left" src="https://media.giphy.com/media/CzvgfBfGUiWphoPUx1/giphy.gif" height="120" alt="Gatinho no PC" />
+  <img align="right" src="https://media.giphy.com/media/fXQZuffGrjohfv6G1A/giphy.gif" height="120" alt="Snoopy e Woodstock" />
+  
+  <div align="center">
+    <br>
+    <p><b>💭 Pensamentos aleatórios:</b></p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=16&pause=2500&color=FF6B81&center=true&vCenter=true&width=500&lines=so+os+loucos+ficam+acordados+de+madrugada+em+busca+de+morangos;a+vida+não+é+um+morango...;eu+tenho+hiperfoco+em+morango+sabia?;se+a+vida+te+der+morangos,+faça+uma+torta" alt="Pensamentos" />
+  </div>
+</div>
+
+<br clear="all">
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-FFB3C6?style=for-the-badge&logo=html5&logoColor=white" />
@@ -37,8 +53,8 @@ Gosto de morango e arte
 <br>
 
 <div align="center">
-  <img src="https://media.tenor.com/2s42Fw_X8h8AAAAi/cat-strawberry.gif" width="100" alt="Gatinho no morango" />
-  <p><i>Obrigado por visitar meu perfil!🍓</i></p>
+  <img src="https://media.giphy.com/media/ddj3fbm2jsDCw/giphy.gif" width="100" alt="Gatinho no morango" />
+  <p><i>Obrigado por visitar o meu perfil! 🍓</i></p>
   
   <img src="https://komarev.com/ghpvc/?username=Rarossoni&label=Visitas&color=FF9EBB&style=flat" alt="Contador de visualizações" />
 </div>

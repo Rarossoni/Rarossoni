@@ -24,7 +24,7 @@ Gosto de morango e arte
   <img align="right" src="https://media.giphy.com/media/fXQZuffGrjohfv6G1A/giphy.gif" height="120" alt="Snoopy e Woodstock" />
   <br>
   <b>💭 Pensamentos aleatórios:</b><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=16&pause=2500&color=FF6B81&center=true&vCenter=true&width=580&lines=so+os+loucos+ficam+acordados+de+madrugada+em+busca+de+morangos;a+vida+não+é+um+morango...;eu+tenho+hiperfoco+em+morango+sabia?;se+a+vida+te+der+morangos,+faça+uma+torta" alt="Pensamentos" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=16&pause=2500&color=FF6B81&center=true&vCenter=true&width=400&lines=so+os+loucos+ficam+acordados+em+busca+de+morangos;a+vida+não+é+um+morango...;eu+tenho+hiperfoco+em+morango+sabia?;se+a+vida+te+der+morangos,+faça+uma+torta" alt="Pensamentos" />
 </p>
 
 <br clear="all">
